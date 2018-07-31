@@ -1,0 +1,9 @@
+﻿ATL1 NotMoreThan 240.00
+ATL2 NotEqual LOW 
+ATL3 NotInFuture
+ATL4 NotLessThan 20.00
+ATL5 Equal HIGH 
+ATL6 NotInPast
+ATL7 MoreThan 20.00
+ATL8 Equal LOW 
+ATL9 NotInFuture

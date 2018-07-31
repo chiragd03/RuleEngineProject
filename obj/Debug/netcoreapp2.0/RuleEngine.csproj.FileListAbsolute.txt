@@ -1,0 +1,13 @@
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.0\Rules.txt
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.0\RuleEngine.deps.json
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.0\RuleEngine.runtimeconfig.json
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.0\RuleEngine.runtimeconfig.dev.json
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.0\RuleEngine.dll
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.0\RuleEngine.pdb
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.0\RuleEngine.csprojAssemblyReference.cache
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.0\RuleEngine.csproj.CoreCompileInputs.cache
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.0\RuleEngine.AssemblyInfoInputs.cache
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.0\RuleEngine.AssemblyInfo.cs
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.0\RuleEngine.dll
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\obj\Debug\netcoreapp2.0\RuleEngine.pdb
+C:\Users\chirag_dahiya\source\repos\RuleEngine\RuleEngine\bin\Debug\netcoreapp2.0\raw_data.json
